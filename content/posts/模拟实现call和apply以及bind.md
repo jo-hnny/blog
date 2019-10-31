@@ -1,7 +1,7 @@
 ---
 title: '模拟实现call和apply以及bind'
 date: 2019-09-18T21:08:52+08:00
-draft: true
+draft: false
 ---
 
 ## 模拟实现 call，apply 我就不写了，很相似

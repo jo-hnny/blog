@@ -1,7 +1,7 @@
 ---
 title: '简单的使用githua Pages搭个博客'
 date: 2019-09-18T20:55:51+08:00
-draft: true
+draft: false
 ---
 
 ## 1、创建一个仓库

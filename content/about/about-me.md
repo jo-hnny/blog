@@ -1,7 +1,7 @@
 ---
 title: 'About Me'
 date: 2019-09-18T21:12:39+08:00
-draft: true
+draft: false
 ---
 
 # 联系方式

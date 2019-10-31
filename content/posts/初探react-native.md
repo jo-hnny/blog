@@ -1,6 +1,7 @@
 ---
 title: '初探react Native'
 date: 2019-09-18T20:51:20+08:00
+draft: false
 ---
 
 本文不介绍 React Native 的 API，API 可以参考官网或者 react native 中文网，主要是从环境搭建开始，利用豆瓣的开放 api 搭建一个豆瓣电影的应用。

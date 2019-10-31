@@ -1,7 +1,7 @@
 ---
 title: '记一次webgl文本特效所踩的坑'
 date: 2019-09-18T21:06:15+08:00
-draft: true
+draft: false
 ---
 
 ## 前情

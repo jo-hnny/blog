@@ -1,7 +1,7 @@
 ---
 title: '基于mocha的nodejs单元测试'
 date: 2019-09-18T21:01:55+08:00
-draft: true
+draft: false
 ---
 
 为了学习这个，我写了一个例子，主要是一个基于 koa 的 restful 服务，然后是基于 mocha、supertest 的测试文件。

@@ -1,7 +1,7 @@
 ---
 title: 'Parcel简单试用'
 date: 2019-09-18T21:11:32+08:00
-draft: true
+draft: false
 ---
 
 ## 为什么要使用

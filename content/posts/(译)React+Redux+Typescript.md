@@ -1,6 +1,7 @@
 ---
 title: '(译)React+Redux+Typescript'
 date: 2019-09-18T21:14:23+08:00
+draft: false
 ---
 
 # React + Redux + TypeScript - 成为更好的前端（教程）
